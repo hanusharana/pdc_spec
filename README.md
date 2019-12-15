@@ -13,5 +13,10 @@ The code in this repo should be easily executable. Please provide instructions o
 Good luck!
 
 ## Notes
-
-Notes go here.
+1. Install Node.js and npm
+2. npm init
+3. Install cypress with 'npm install cypress --save-dev'
+4. npm install
+5. npx cypress open 
+6. cypress tool will open up.
+7. Run the test under integration test by clicking button 'Run all specs' (note you should have firefox installed already)
